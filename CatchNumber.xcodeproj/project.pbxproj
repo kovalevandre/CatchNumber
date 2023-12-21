@@ -11,6 +11,8 @@
 		CD84D9452B34D3C500F590B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84D9442B34D3C500F590B9 /* ContentView.swift */; };
 		CD84D9472B34D3C600F590B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD84D9462B34D3C600F590B9 /* Assets.xcassets */; };
 		CD84D94A2B34D3C600F590B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD84D9492B34D3C600F590B9 /* Preview Assets.xcassets */; };
+		CD84D9512B34D41C00F590B9 /* SliderFromUIKitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84D9502B34D41C00F590B9 /* SliderFromUIKitView.swift */; };
+		CD84D9532B34E09600F590B9 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84D9522B34E09600F590B9 /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		CD84D9442B34D3C500F590B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD84D9462B34D3C600F590B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD84D9492B34D3C600F590B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD84D9502B34D41C00F590B9 /* SliderFromUIKitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderFromUIKitView.swift; sourceTree = "<group>"; };
+		CD84D9522B34E09600F590B9 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				CD84D9422B34D3C500F590B9 /* CatchNumberApp.swift */,
 				CD84D9442B34D3C500F590B9 /* ContentView.swift */,
+				CD84D9502B34D41C00F590B9 /* SliderFromUIKitView.swift */,
+				CD84D9522B34E09600F590B9 /* ButtonView.swift */,
 				CD84D9462B34D3C600F590B9 /* Assets.xcassets */,
 				CD84D9482B34D3C600F590B9 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				CD84D9452B34D3C500F590B9 /* ContentView.swift in Sources */,
 				CD84D9432B34D3C500F590B9 /* CatchNumberApp.swift in Sources */,
+				CD84D9532B34E09600F590B9 /* ButtonView.swift in Sources */,
+				CD84D9512B34D41C00F590B9 /* SliderFromUIKitView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
