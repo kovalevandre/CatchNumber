@@ -37,9 +37,7 @@ struct ContentView: View {
                 currentValue = Double.random(in: 0...100)},
                        title: "Начать заново",
                        image: "repeat.circle.fill")
-           
         }
-
     }
     
     private func computeScrore() -> Int {
